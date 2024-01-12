@@ -1,4 +1,4 @@
-### SSAFY 11기 2반
+### 🌱 I’m currently in SSAFY
 
 <!--
 **cadetbluee/cadetbluee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
