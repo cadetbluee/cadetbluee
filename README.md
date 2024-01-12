@@ -1,5 +1,9 @@
 ### 🌱 I’m currently in SSAFY
 
+### 📫 How to reach me: cadetbluee@icloud.com
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cadetbluee)](https://github.com/cadetbluee/github-readme-stats)
+
 <!--
 **cadetbluee/cadetbluee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
