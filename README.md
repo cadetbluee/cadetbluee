@@ -1,6 +1,16 @@
-### 🌱 I’m currently in SSAFY
 
-### 📫 How to reach me: cadetbluee@icloud.com
+<div align="center">
+
+<!-- 움직이는 기술스택 아이콘 -->
+<div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="70" />
+
+ <h3> 📚 Currently Studying At  </h3>
+  SSAFY 11th
+
+ <h3> 📫 Contact  </h3>
+  cadetbluee@icloud.com
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadetbluee)](https://github.com/cadetbluee/github-readme-stats)
 
