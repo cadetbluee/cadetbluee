@@ -15,7 +15,8 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cadetbluee)](https://solved.ac/cadetbluee)
 <div align="center">
-![cadetbluee's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadetbluee&count_private=true)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadetbluee&count_private=true)
 
 
 
