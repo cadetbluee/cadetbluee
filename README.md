@@ -13,8 +13,9 @@
 
 <div align="center">
 
+![cadetbluee's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadetbluee)
+<[![cadetbluee's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadetbluee)](https://github.com/cadetbluee/github-readme-stats)>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadetbluee)](https://github.com/cadetbluee/github-readme-stats)
 
 <div align="center">
   
