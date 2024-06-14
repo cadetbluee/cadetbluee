@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobe-DA1F26?style=for-the-badge&logo=adobe%20creative%20cloud&logoColor=white"/>
+
 </div>
 
 ### 📚 Currently Studying At
@@ -22,15 +22,15 @@ cadetbluee@icloud.com
 ### 👩‍💻 Projects
 <table align="center">
   <tr>
-    <th>Title</th>
-     <th>Description</th>
-    <th>Skills</th>
-    <th>Link</th>
+   <th>Title</th>
+   <th>Description</th>
+   <th>Skills</th>
+   <th>Link</th>
   </tr>
   <tr>
-    <td>MEOVA</td>
-     <td>최소 시간 최소 비용으로 관람할 영화를 손쉽게 추천받을 수 있는, 검색 기능에 중점을 둔 웹사이트</td>
-    <td>Vue, Django, mySQL</td>
+   <td>MEOVA</td>
+   <td>최소 시간 최소 비용으로 관람할 영화를 손쉽게 추천받을 수 있는, 검색 기능에 중점을 둔 웹사이트</td>
+   <td>Vue, Django, mySQL</td>
    <td>https://github.com/cadetbluee/project-meova</td>
   </tr>
  
