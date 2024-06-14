@@ -3,7 +3,8 @@
 
 <!-- 움직이는 기술스택 아이콘 -->
 <div style="display: flex; align-items: flex-start;">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
 
  <h3> 📚 Currently Studying At  </h3>
   SSAFY 11th
