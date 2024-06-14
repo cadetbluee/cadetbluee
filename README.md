@@ -10,7 +10,7 @@
   <p>SSAFY 11th</p>
 
  <h3> 📫 Contact  </h3>
-  <p>cadetbluee@icloud.com</p>
+  <a href="mailto:cadetbluee@icloud.com">Ⓜ️</a>
   <br>
 
   
