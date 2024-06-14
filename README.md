@@ -38,15 +38,12 @@ cadetbluee@icloud.com
    
 </table>
 
-<div align="center">
-
 ### 🖥️ boj   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cadetbluee)](https://solved.ac/cadetbluee)
 
 
 ### 👥 git stats  
 ![Cadetbluee's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadetbluee&count_private=true)
-</div>
 
 
 <!--
