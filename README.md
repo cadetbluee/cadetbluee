@@ -10,7 +10,9 @@
   <p>SSAFY 11th</p>
 
  <h3> 📫 Contact  </h3>
-  <a href="mailto:cadetbluee@icloud.com">Ⓜ️</a>
+  <a href="mailto:cadetbluee@icloud.com"><img src="https://img.shields.io/badge/MAIL-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
   <br>
 
   
