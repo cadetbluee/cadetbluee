@@ -1,24 +1,25 @@
 
 <div align="center">
+ <h3> 🌱 TechStack </h3>
 
-<!-- 움직이는 기술스택 아이콘 -->
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
-
+</div>
  <h3> 📚 Currently Studying At  </h3>
-  SSAFY 11th
+  <p>SSAFY 11th</p>
 
  <h3> 📫 Contact  </h3>
-  cadetbluee@icloud.com
-<div align="center">
+  <p>cadetbluee@icloud.com</p>
+  <br>
+
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cadetbluee)](https://solved.ac/cadetbluee)
 
-<div align="center">
+
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadetbluee&count_private=true)
-
+</div>
 
 
 <!--
