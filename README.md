@@ -1,6 +1,8 @@
 
 <img src="./gitreadme.png"/>
 
+### 🔎 About Me
+- 윤채영 / 항상 최선을 다하는 개발자입니다.
 
 ### 🎓 Education & Activity
 - Samsung SW academy for youth(SSAFY) 11th(2024.01 ~)
