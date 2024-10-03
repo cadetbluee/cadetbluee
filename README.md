@@ -45,11 +45,19 @@ cadetbluee@icloud.com
     <td>Python, Pygame, Adobe</td>
    <td>https://github.com/cadetbluee/project-pongdang</td>
   </tr>
+  </tr>
+    <tr>
+    <td>SSAFY 2학기 프로젝트 'Flea:ON' (2024)</td>
+     <td>라이브 커머스 기반 중고거래 플랫폼</td>
+    <td>Spring, React, PWA, MUI</td>
+   <td>https://github.com/cadetbluee/project-fleaon</td>
+  </tr>
 </table>
 
 ### 🏆 Achievements
 - SSAFY 1학기 프로젝트 최우수상
-
+- SSAFY 1학기 성적우수상
+  
 ### 🖥️ boj   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cadetbluee)](https://solved.ac/cadetbluee)
 
