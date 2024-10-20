@@ -54,7 +54,7 @@ cadetbluee@icloud.com
   </tr>
     <tr>
     <td>AllEat</td>
-     <td>라이브 커머스 기반 중고거래 플랫폼</td>
+     <td>식단 식비 통합 자동관리 서비스</td>
     <td>React Native, firebase, tailwindcss, redux</td>
    <td>https://github.com/cadetbluee/project-alleat</td>
   </tr>
