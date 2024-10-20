@@ -1,5 +1,6 @@
 
-<img src="./gitreadme.png"/>
+<img src="https://github.com/user-attachments/assets/d9211651-fd5f-4411-914b-71c9cace369a" height=100 />
+
 
 ### 🔎 About Me
 - 윤채영 / 항상 최선을 다하는 개발자입니다.
