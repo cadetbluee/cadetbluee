@@ -33,24 +33,30 @@ cadetbluee@icloud.com
     <th>Link</th>
   </tr>
   <tr>
-    <td>SSAFY 1학기 프로젝트 'MEOVA' (2024)</td>
+    <td>MEOVA</td>
      <td>Open API를 활용한 검색 중심 영화 추천 기반 SNS 서비스</td>
     <td>Python, Django, Vue, ChatGPT </td>
    <td>https://github.com/cadetbluee/project-meova</td>
   </tr>
   </tr>
     <tr>
-    <td>사이드 프로젝트 미니게임 'PONGDANG' (2024)</td>
+    <td>PONGDANG</td>
      <td>상대의 비치볼을 밀어내라! 육지 위에 마지막까지 살아남는 플레이어가 승자가 되는 전략 알 까기 게임</td>
     <td>Python, Pygame, Adobe</td>
    <td>https://github.com/cadetbluee/project-pongdang</td>
   </tr>
   </tr>
     <tr>
-    <td>SSAFY 2학기 프로젝트 'Flea:ON' (2024)</td>
+    <td>Flea:ON</td>
      <td>라이브 커머스 기반 중고거래 플랫폼</td>
-    <td>Spring, React, PWA, MUI</td>
+    <td>React, PWA, MUI</td>
    <td>https://github.com/cadetbluee/project-fleaon</td>
+  </tr>
+    <tr>
+    <td>AllEat</td>
+     <td>라이브 커머스 기반 중고거래 플랫폼</td>
+    <td>React Native, firebase, tailwindcss, redux</td>
+   <td>https://github.com/cadetbluee/project-alleat</td>
   </tr>
 </table>
 
