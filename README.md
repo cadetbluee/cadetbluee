@@ -59,6 +59,12 @@ cadetbluee@icloud.com
     <td>React Native, firebase, tailwindcss, redux</td>
    <td>https://github.com/cadetbluee/project-alleat</td>
   </tr>
+   <tr>
+    <td>PushOfLife</td>
+     <td>갤럭시 워치를 활용한 응급상황 탐지, 알림 및 심폐소생술 실시간 피드백 가이드 서비스</td>
+    <td>Kotlin, firebase, wearOS</td>
+   <td>https://github.com/cadetbluee/project-pushoflife</td>
+  </tr>
 </table>
 
 ### 🏆 Achievements
