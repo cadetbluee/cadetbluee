@@ -6,7 +6,7 @@
 - 윤채영 / 항상 최선을 다하는 개발자입니다.
 
 ### 🎓 Education & Activity
-- Samsung SW academy for youth(SSAFY) 11th(2024.01 ~)
+- Samsung SW academy for youth(SSAFY) 11th(2024.01 ~ 2024.12)
 - Bachelor's Degree on Molecular & Life Science at Hanyang University (2019.03 ~ 2024.02)
 
  ### 🌱 TechStack
